@@ -4,7 +4,7 @@ import random
 import string
 
 #Reads in the list of names (stored as a Data Frame)
-namesDF = pd.read_csv("Book1.csv")
+namesDF = pd.read_csv("randomnames.csv")
 
 #Sets a random seed for predictible random results
 random.seed(0)
