@@ -1,5 +1,4 @@
 # IDAssignment
-https://www.youtube.com/watch?v=ZFAkq0eSxVs
 
 This snippet of code can be used to create unique IDs for an input list of names. 
 
